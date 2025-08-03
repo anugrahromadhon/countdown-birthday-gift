@@ -23,7 +23,7 @@ countdown-birthday-gift/
 ├── styles/
 │   └── style.css        # All custom CSS styling
 ├── scripts/
-│   └── countdown.js     # Logic for calculating and displaying the timer
+│   └── index.js     # Logic for calculating and displaying the timer
 └── .prettierrc.js       # Prettier configuration for consistent formatting
 
 ````
